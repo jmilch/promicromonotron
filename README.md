@@ -14,6 +14,7 @@ Pin mapping:
 
 
 Todo:
+- Get it to work properly...
 - Control Filter Cutoff via MidiCC
 
 Credits:
